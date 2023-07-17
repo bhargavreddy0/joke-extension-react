@@ -1,0 +1,10 @@
+div{
+  background: rgb(129, 129, 239);
+}
+#jokeelement{
+width: 200px;
+height: fit-content;
+border-radius: 5px;
+border: 1px solid blueviolet;
+color: black;
+}

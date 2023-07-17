@@ -1,0 +1,16 @@
+{
+  "manifest_version":3,
+  "name":"joke",
+  "description":"A simple joke generator.",
+  "version":"1.0.0",
+  "action":{
+    "default_popup":"index.html",
+    "default_title":"Open",
+    "default_icon": {
+      "128": "logo.png"
+    }
+  },
+  "permissions":[
+    "scripting"
+  ]
+}
